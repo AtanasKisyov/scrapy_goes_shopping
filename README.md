@@ -1,0 +1,1 @@
+Scrapy goes shoping
