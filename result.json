@@ -1,0 +1,154 @@
+[
+    {
+        "name": "Satin wrap skirt",
+        "color": "99",
+        "price": 49.99,
+        "size": [
+            {
+                "id": "19",
+                "value": "XS",
+                "available": true
+            },
+            {
+                "id": "20",
+                "value": "S",
+                "available": true
+            },
+            {
+                "id": "21",
+                "value": "M",
+                "available": true
+            },
+            {
+                "id": "22",
+                "value": "L",
+                "available": true
+            },
+            {
+                "id": "23",
+                "value": "XL",
+                "available": true
+            }
+        ]
+    },
+    {
+        "name": "Flared long skirt",
+        "color": "56",
+        "price": 19.99,
+        "size": [
+            {
+                "id": "34",
+                "value": "6",
+                "available": true
+            },
+            {
+                "id": "36",
+                "value": "8",
+                "available": true
+            },
+            {
+                "id": "38",
+                "value": "10"
+            },
+            {
+                "id": "40",
+                "value": "12"
+            },
+            {
+                "id": "42",
+                "value": "14"
+            },
+            {
+                "id": "44",
+                "value": "16"
+            }
+        ]
+    },
+    {
+        "name": "Midi satin skirt",
+        "color": "43",
+        "price": 39.99,
+        "size": [
+            {
+                "id": "20",
+                "value": "S",
+                "available": true
+            },
+            {
+                "id": "21",
+                "value": "M"
+            },
+            {
+                "id": "22",
+                "value": "L"
+            },
+            {
+                "id": "23",
+                "value": "XL"
+            }
+        ]
+    },
+    {
+        "name": "Slit hem skirt",
+        "color": "99",
+        "price": 29.99,
+        "size": [
+            {
+                "id": "20",
+                "value": "S",
+                "available": true
+            },
+            {
+                "id": "21",
+                "value": "M",
+                "available": true
+            },
+            {
+                "id": "22",
+                "value": "L",
+                "available": true
+            },
+            {
+                "id": "23",
+                "value": "XL",
+                "available": true
+            }
+        ]
+    },
+    {
+        "name": "Faux-leather skirt",
+        "color": "99",
+        "price": 59.99,
+        "size": [
+            {
+                "id": "18",
+                "value": "XXS"
+            },
+            {
+                "id": "19",
+                "value": "XS"
+            },
+            {
+                "id": "20",
+                "value": "S"
+            },
+            {
+                "id": "21",
+                "value": "M"
+            },
+            {
+                "id": "22",
+                "value": "L"
+            },
+            {
+                "id": "23",
+                "value": "XL",
+                "available": true
+            },
+            {
+                "id": "24",
+                "value": "XXL"
+            }
+        ]
+    }
+]
